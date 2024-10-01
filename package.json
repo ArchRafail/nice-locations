@@ -1,8 +1,8 @@
 {
-  "name": "hello-world",
+  "name": "nice-locations",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Nice Locations",
+  "author": "Roman Bylo",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
