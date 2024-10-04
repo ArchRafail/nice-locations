@@ -27,9 +27,11 @@
     "automapper-ts": "^1.9.0",
     "config": "^3.3.12",
     "hbs": "^4.2.0",
+    "lodash": "^4.17.21",
     "pg": "^8.13.0",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
+    "sinon": "^19.0.2",
     "typeorm": "^0.3.20"
   },
   "devDependencies": {
@@ -39,7 +41,9 @@
     "@types/config": "^3.3.5",
     "@types/express": "^4.17.17",
     "@types/jest": "^29.5.2",
+    "@types/lodash": "^4.17.10",
     "@types/node": "^20.3.1",
+    "@types/sinon": "^17.0.3",
     "@types/supertest": "^6.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
